@@ -1,4 +1,4 @@
-# AI-Software-Engineer
+# AI Software Engineer
 whatever you need to know if you want to be an AI Software Engineer. 
 
 I update this repo to share my experiences as a software engineer who uses smart solutions to build smart and scaleable application. 
